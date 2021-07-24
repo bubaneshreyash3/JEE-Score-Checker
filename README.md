@@ -14,3 +14,5 @@
 <code>Save Your Reponse as <b>Response.html</b><br>
 Save Correction Page as <b>AnswerKey.html</b></code></li>
     <li>Run <b>main.py</b></li>
+
+<h4> Note: This Score is Based On Correction AnswerKey Which is Prone to Errors.</h4> 
