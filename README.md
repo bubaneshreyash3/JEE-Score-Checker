@@ -11,8 +11,6 @@
 <ul>
     <li>Open Your Response and Correction Page in Your Browser.</li>
     <li>Save The Webpage HTML(CTRL + S) in <b>Data</b> Folder.<br>
-<code>Save Your Reponse as <b>Response.html</b><br>
-Save Correction Page as <b>AnswerKey.html</b></code></li>
+<samp>Save Your Reponse as <b>Response.html</b><br>
+Save Correction Page as <b>AnswerKey.html</b></samp></li>
     <li>Run <b>main.py</b></li>
-
-<h4> Note: This Score is Based On Correction Answerkey Which is Prone to Errors.</h4> 
