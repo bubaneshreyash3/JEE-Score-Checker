@@ -1,7 +1,9 @@
 import os
-from requests import get
-from bs4 import BeautifulSoup
-# from jeeresult import Question
+try:
+    from bs4 import BeautifulSoup
+except:
+    print("Please Install BeautifulSoup!!")
+    exit()
 
 def checkPresent():
     if 'nt' in os.name and os.path.exists('Data\\Response.html') and os.path.exists('Data\\AnswerKey.html'):

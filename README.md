@@ -3,8 +3,9 @@
 <h2> Requirements: </h2>
 <ul>
     <li> Python3 </li>
-    <li> BeautifulSoup4 Module: <br>
-<code> $ pip install bs4 </code> </li>
+-   BeautifulSoup4 Module: <br>
+```shell
+$ pip install bs4```
 </ul>
 
 <h2> How to Use? </h2>
