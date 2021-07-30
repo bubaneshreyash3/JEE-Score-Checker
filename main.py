@@ -3,6 +3,7 @@ try:
     from bs4 import BeautifulSoup
 except:
     print('Please Install. BeautifulSoup4 Module')
+    input()
     exit()
 
 def checkPresent():
@@ -12,6 +13,7 @@ def checkPresent():
         print('Found Response and AnswerKey.')
     else:
         print("[ERROR] Response and/or AnswerKey Not Found!!")
+        input()
         exit(-1)
 
 class Question:
