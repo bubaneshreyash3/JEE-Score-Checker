@@ -2,7 +2,7 @@ import os
 try:
     from bs4 import BeautifulSoup
 except:
-    print("Please Install BeautifulSoup!!")
+    print('Please Install. BeautifulSoup4 Module')
     exit()
 
 def checkPresent():
