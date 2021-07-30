@@ -1,12 +1,10 @@
-<h1 align=center> Python Script to Check JEE Mains Score from Response and Correction Page </h1>
+# Python Script to Check JEE Mains Score from Response and Correction Page
 
-<h2> Requirements: </h2>
-<ul>
-    <li> Python3 </li>
--   BeautifulSoup4 Module: <br>
-```shell
-$ pip install bs4```
-</ul>
+## Requirements:
+-   Python3
+-   BeautifulSoup4 Python Module:  
+    Open Command Prompt and Run Following Command:  
+    `$ pip install bs4`
 
 <h2> How to Use? </h2>
 <ul>
