@@ -19,7 +19,3 @@ Tested On Windows 10 21H1, Python 3.9.6
     Save Your Reponse as **Response.html**  
     Save Correction Page as **AnswerKey.html**
 -   Run <b>main.py</b>
-
-## --OR-- 
-If you don't want to install Python3 and/or dependencies, you can simply save Response & AnswerKey and run **main.exe** .  
-Though this is standalone and doesn't require anything else(except your Response and AnswerKey ofc), it is more prone to errors and running main.py is recommended.
