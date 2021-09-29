@@ -2,18 +2,13 @@
 
 Calculating JEE score from Question Paper and AnswerKey is a tedious task as NTA provides answers in terms of Question IDs and Answer IDs  
 Here is a python3 program to calculate JEE Mains score.  
-Tested On Windows 10 21H1, Python 3.9.6  
-
-## Requirements:
--   Python3
--   BeautifulSoup4 Python Module:  
-    Open Command Prompt and Run Following Command:  
-    ```
-    $ pip install bs4 
-    ```
 
 ## How to Use?
--   Download and Extract The Program From Releases
+-   Download/Clone Repo
+-   Install requirements
+```code 
+$ pip install -r requirements.txt
+```
 -   Open Your Response and Correction Page in Your Browser
 -   Save The Webpage HTML(CTRL + S) in **Data** Folder  
     Save Your Reponse as **Response.html**  

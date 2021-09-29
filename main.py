@@ -2,8 +2,7 @@ import os
 try:
     from bs4 import BeautifulSoup
 except:
-    print('Please Install. BeautifulSoup4 Module')
-    input()
+    print('[!] BeautifulSoup4 not found')
     exit()
 
 def checkPresent():
@@ -230,5 +229,3 @@ if __name__=='__main__':
     math_result.show()
     print()
     total.show()
-
-    input()
